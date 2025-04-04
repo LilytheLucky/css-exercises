@@ -2,5 +2,6 @@ div {
   background-color: red;
   color: white;
   text-align: center;
-  font-weight: 15px;
+  font-weight: 5px;
+  font-size: 32px;
 }
